@@ -27,5 +27,10 @@
   },
   "engines": {
     "node": ">=14"
+  },
+  "ts-standard": {
+    "ignore": [
+      "remix.env.d.ts"
+    ]
   }
 }
